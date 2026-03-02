@@ -14,6 +14,7 @@
 
 🎓 Estudante do 3º ano do Ensino Médio  
 💻 Técnico em Desenvolvimento de Sistemas - SENAI Americana (SP)
+
 🚀 Foco em desenvolvimento Back-End com Java
 
 Busco me tornar Engenheiro de Software, criando APIs REST robustas, organizadas e escaláveis.
