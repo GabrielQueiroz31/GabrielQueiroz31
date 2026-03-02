@@ -13,7 +13,7 @@
 ## 👨‍💻 Sobre mim
 
 🎓 Estudante do 3º ano do Ensino Médio  
-💻 Técnico em Desenvolvimento de Sistemas - SENAI  
+💻 Técnico em Desenvolvimento de Sistemas - SENAI Americana (SP)
 🚀 Foco em desenvolvimento Back-End com Java
 
 Busco me tornar Engenheiro de Software, criando APIs REST robustas, organizadas e escaláveis.
@@ -60,3 +60,9 @@ Busco me tornar Engenheiro de Software, criando APIs REST robustas, organizadas 
 ## 🎯 Objetivo
 
 Me tornar Engenheiro de Software especializado em Back-End, aplicando boas práticas como POO, Clean Code, arquitetura em camadas e padrões de projeto.
+
+---
+
+## 📫 Contato
+
+✉️ gabriel.queiroz733@gmail.com
