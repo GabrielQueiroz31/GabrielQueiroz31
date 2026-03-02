@@ -57,7 +57,7 @@
 
 ## 🎯 Objetivo
 
-Me tornar Engenheiro de Software especializado em Back-End, aplicando boas práticas como POO, Clean Code, arquitetura em camadas e padrões de projeto.
+Me tornar Engenheiro de Software especializado em Back-End
 
 ---
 
