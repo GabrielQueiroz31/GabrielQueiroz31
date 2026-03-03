@@ -15,7 +15,7 @@
 - 🚀 Foco em desenvolvimento Back-End com Java
 - 📚 Focado em aprendizado contínuo e evolução profissional
 
-Busco me tornar Engenheiro de Software, desenvolvendo APIs REST robustas, organizadas e escaláveis.
+Busco me tornar Engenheiro de Software, com foco em desenvolvimento Back-End, criando APIs REST robustas e escaláveis, aplicando boas práticas e metodologias ágeis.
 
 ---
 
@@ -74,7 +74,7 @@ Me tornar Engenheiro de Software especializado em Back-End, aplicando boas prát
 
 ## 📫 Contato
 
-✉️ gabriel.queiroz733@gmail.com  
+[![Email](https://img.shields.io/badge/Email-gabriel.queiroz733%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:gabriel.queiroz733@gmail.com)
 
 ---
 
