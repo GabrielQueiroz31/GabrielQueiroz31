@@ -41,7 +41,7 @@ Busco me tornar Engenheiro de Software, desenvolvendo APIs REST robustas, organi
 ## 📚 Atualmente estudando
 
 - Java - Spring Boot avançado
-- POO (Programação Orientada a Objetos)
+- POO (Programação Orientada a Objetos) - Java
 - FrontEnd - JavaScript            
 - Flutter com AndroidSDK
 - Projeto de Software
