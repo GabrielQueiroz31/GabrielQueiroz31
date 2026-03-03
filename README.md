@@ -50,8 +50,8 @@ Busco me tornar Engenheiro de Software, desenvolvendo APIs REST robustas, organi
 
 ## 💼 Projetos em destaque
 
-🔹 Em breve APIs REST completas com Spring Boot 
-🔹 Projeto FullStack integrando Front-End e Back-End  
+🔹 Em breve APIs REST completas com Spring Boot     
+🔹 Projeto FullStack integrando Front-End e Back-End             
 🔹 Aplicativo Mobile desenvolvido em Flutter  
 🔹 Testes e execução em emulador Android (Android SDK)
 
