@@ -33,7 +33,7 @@ Busco me tornar Engenheiro de Software, desenvolvendo APIs REST robustas, organi
 
 ### 🔹 Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
