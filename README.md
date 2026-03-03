@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Técnico+em+Desenvolvimento+de+Sistemas+-+SENAI+Americana+(SP);Desenvolvedor+Back-End+em+formação;Foco+em+Java+e+Spring+Boot"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=Técnico+em+Desenvolvimento+de+Sistemas+-+SENAI+Americana+(SP);Desenvolvedor+Back-End+em+formação;Foco+em+Java+Spring+Boot+e+Node.js"/>
 </p>
 
 ---
