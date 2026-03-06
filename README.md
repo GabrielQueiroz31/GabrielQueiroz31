@@ -74,9 +74,9 @@ Me tornar Engenheiro de Software especializado em Back-End, aplicando boas prát
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Shttps://www.linkedin.com/in/gabriel-gomes-queiroz/)
+[![linkedin](https://img.shields.io/badge/linkedin-gabriel%20gomes%20queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-queiroz/)
 
-[![Email](https://img.shields.io/badge/Gmail-gabriel.queiroz733@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.queiroz733@gmail.com)
+[![gmail](https://img.shields.io/badge/gmail-gabriel.queiroz733%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.queiroz733@gmail.com)
 
 ---
 
