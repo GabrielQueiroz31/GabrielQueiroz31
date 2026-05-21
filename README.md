@@ -72,14 +72,8 @@ Atualmente estou desenvolvendo e aprimorando projetos voltados para:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielQueiroz31&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true"
-  />
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielQueiroz31&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8"
-  />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielQueiroz31&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielQueiroz31&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
 </p>
 
 <p align="center">
