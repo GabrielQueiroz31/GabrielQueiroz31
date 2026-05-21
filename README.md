@@ -57,7 +57,7 @@ Busco me tornar Engenheiro de Software, com foco em desenvolvimento Back-End, cr
 
 ---
 
-## 🐍 Minhas contribuições
+## 🦾 Contribuições
 
 <p align="center">
   <picture>
